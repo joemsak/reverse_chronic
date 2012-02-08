@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
   s.email       = ["joe@joesak.com"]
   s.homepage    = ""
   s.summary     = ""
-  s.description = "" 
+  s.description = ""
 
   s.rubyforge_project = "reverse_chronic"
 
