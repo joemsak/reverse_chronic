@@ -7,9 +7,9 @@ Gem::Specification.new do |s|
   s.version     = ReverseChronic::VERSION
   s.authors     = ["Joe Sak"]
   s.email       = ["joe@joesak.com"]
-  s.homepage    = ""
-  s.summary     = ""
-  s.description = ""
+  s.homepage    = "https://github.com/joemsak/reverse_chronic"
+  s.summary     = "Proposes to accomplish reverse tasks of Chronic"
+  s.description = "Read the summary, I guess?"
 
   s.rubyforge_project = "reverse_chronic"
 
