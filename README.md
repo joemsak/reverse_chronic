@@ -11,7 +11,7 @@ git remote add upstream git://github.com/joemsak/reverse_chronic.git
 
 ```
 git fetch upstream
-git merge fetch/master
+git merge upstream/master
 ```
 
 * Use a feature/topic/bug-fix branched frm master
